@@ -6,7 +6,7 @@
   - `tar -zxvf Python-3.4.4.tgz` 
   - `cd Python-3.4.4/` 
   - `./configure` 
-  - `make install`
+  - `sudo make install`
   
 ### **b) Create python3 venv**  
 
