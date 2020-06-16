@@ -26,5 +26,11 @@
 - `nvm install 6` 
 - `nvm use 6`
 ### **d) Install pip dependencies & run buildout**
+git clone https://github.com/T2DREAM/t2dream-portal.git
 
-[Install pip dependencies](https://github.com/T2DREAM/DGA-ubuntu-installation/pip-dependencies.txt) 
+cd t2dream-portal
+
+[Install pip dependencies](https://github.com/T2DREAM/DGA-ubuntu-installation/blob/master/pip-dependencies.txt) 
+
+` ~/Python-3.4.4/.t2dream-venv/bin/buildout bootstrap`
+`bin/buildout`
